@@ -22,6 +22,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 7.Train the KMeans model with n_clusters=5.
 
+
 8.Predict cluster labels for each customer.
 
 9.Assign each data point to its respective cluster.
